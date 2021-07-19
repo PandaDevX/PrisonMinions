@@ -1,0 +1,4 @@
+name: PrisonMinions
+version: ${project.version}
+main: com.lifeonblack.prisonminions.PrisonMinions
+api-version: 1.16
